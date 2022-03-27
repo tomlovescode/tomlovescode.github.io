@@ -29,6 +29,6 @@ int main(){
 }
 ```
 
-![Screen Shot 2021-03-26 at 22.50.42](/assets/blog_res/2021-03-30-%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C.assets/Screen%20Shot%202021-03-26%20at%2022.50.42.png)
 
-![Screen Shot 2022-03-27 at 6.15.59 PM](2021-03-30-hello-world.assets/Screen Shot 2022-03-27 at 6.15.59 PM.png)
+
+![Screen Shot 2022-03-27 at 6.20.40 PM](../assets/blog_res/2021-03-30-hello-world.assets/Screen Shot 2022-03-27 at 6.20.40 PM.png)
